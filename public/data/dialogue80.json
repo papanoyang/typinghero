@@ -1,0 +1,1389 @@
+{
+    "dialogueList": [
+        {
+            "dialogueNo": 0,
+            "dialogue": [
+                "おかえりなさい！",
+                "今回も漢字を練習して行きます！",
+                ""],
+            "name": "Chat-TH",
+            "isInputRequire": false,
+            "answerList": [
+                {
+                    "answer": ["分かった。"],
+                    "nextDialogueNo": 1
+                }
+            ],
+            "displyaWord": [""],
+            "helpWord": [""],
+            "isHelpDisplay": true,
+            "success": -1,
+            "failure": -1
+        },
+        {
+            "dialogueNo": 1,
+            "dialogue": [
+                "画面に表示された単語を",
+                "入力してください。", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["表す"],
+            "helpWord": ["あらわす"],
+            "isHelpDisplay": true,
+            "success": 3,
+            "failure": 2
+        },
+        {
+            "dialogueNo": 2,
+            "dialogue": [
+                "残念！", 
+                "もう一度、入力してみてください。", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["表す"],
+            "helpWord": ["あらわす"],
+            "isHelpDisplay": true,
+            "success": 3,
+            "failure": 2
+        },
+        {
+            "dialogueNo": 3,
+            "dialogue": [
+                "さすがです！",
+                "これもお願いします。", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["整う"],
+            "helpWord": ["ととのう"],
+            "isHelpDisplay": true,
+            "success": 5,
+            "failure": 4
+        },
+        {
+            "dialogueNo": 4,
+            "dialogue": [
+                "ざんねん！", 
+                "ゆっくりで大丈夫ですよ。", 
+                "もう一度！"
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["整う"],
+            "helpWord": ["ととのう"],
+            "isHelpDisplay": true,
+            "success": 5,
+            "failure": 4
+        },
+        {
+            "dialogueNo": 5,
+            "dialogue": [
+                "さすがです！",
+                "これはどうでしょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["飲む"],
+            "helpWord": ["のむ"],
+            "isHelpDisplay": true,
+            "success": 7,
+            "failure": 6
+        },
+        {
+            "dialogueNo": 6,
+            "dialogue": [
+                "残念！", 
+                "ゆっくりで大丈夫ですよ。", 
+                "もう一度！"
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["飲む"],
+            "helpWord": ["のむ"],
+            "isHelpDisplay": true,
+            "success": 7,
+            "failure": 6
+        },
+        {
+            "dialogueNo": 7,
+            "dialogue": [
+                "すばらしい！",
+                "これはどうでしょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["着く"],
+            "helpWord": ["つく"],
+            "isHelpDisplay": true,
+            "success": 9,
+            "failure": 8
+        },
+        {
+            "dialogueNo": 8,
+            "dialogue": [
+                "時間はありますから、", 
+                "入力した内容と", 
+                "変換した単語をよくみてください。"
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["着く"],
+            "helpWord": ["つく"],
+            "isHelpDisplay": true,
+            "success": 9,
+            "failure": 8
+        },
+        {
+            "dialogueNo": 9,
+            "dialogue": [
+                "その調子ですよ！",
+                "これもお願いします！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["付く"],
+            "helpWord": ["つく"],
+            "isHelpDisplay": true,
+            "success": 11,
+            "failure": 10
+        },
+        {
+            "dialogueNo": 10,
+            "dialogue": [
+                "ゆっくり、落ち着いて", 
+                "確認しながらで", 
+                "大丈夫ですよ。"
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["付く"],
+            "helpWord": ["つく"],
+            "isHelpDisplay": true,
+            "success": 11,
+            "failure": 10
+        },
+        {
+            "dialogueNo": 11,
+            "dialogue": [
+                "ワウ！",
+                "これもお願いします！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["追う"],
+            "helpWord": ["おう"],
+            "isHelpDisplay": true,
+            "success": 13,
+            "failure": 12
+        },
+        {
+            "dialogueNo": 12,
+            "dialogue": [
+                "残念！でも大丈夫！", 
+                "できるまで！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["追う"],
+            "helpWord": ["おう"],
+            "isHelpDisplay": true,
+            "success": 13,
+            "failure": 12
+        },
+        {
+            "dialogueNo": 13,
+            "dialogue": [
+                "すばらしい！",
+                "これもお願いします！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["負う"],
+            "helpWord": ["おう"],
+            "isHelpDisplay": true,
+            "success": 15,
+            "failure": 14
+        },
+        {
+            "dialogueNo": 14,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["負う"],
+            "helpWord": ["おう"],
+            "isHelpDisplay": true,
+            "success": 15,
+            "failure": 14
+        },
+        {
+            "dialogueNo": 15,
+            "dialogue": [
+                "さすがです！",
+                "その調子で行きましょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["測る"],
+            "helpWord": ["はかる"],
+            "isHelpDisplay": true,
+            "success": 17,
+            "failure": 16
+        },
+        {
+            "dialogueNo": 16,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["測る"],
+            "helpWord": ["はかる"],
+            "isHelpDisplay": true,
+            "success": 17,
+            "failure": 16
+        },
+        {
+            "dialogueNo": 17,
+            "dialogue": [
+                "びっくり！",
+                "これもよろしく！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["計る"],
+            "helpWord": ["はかる"],
+            "isHelpDisplay": true,
+            "success": 19,
+            "failure": 18
+        },
+        {
+            "dialogueNo": 18,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["計る"],
+            "helpWord": ["はかる"],
+            "isHelpDisplay": true,
+            "success": 19,
+            "failure": 18
+        },
+        {
+            "dialogueNo": 19,
+            "dialogue": [
+                "すごい！",
+                "これはどうでしょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["量る"],
+            "helpWord": ["はかる"],
+            "isHelpDisplay": true,
+            "success": 21,
+            "failure": 20
+        },
+        {
+            "dialogueNo": 20,
+            "dialogue": [
+                "残念！", 
+                "ゆっくりで大丈夫ですよ！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["量る"],
+            "helpWord": ["はかる"],
+            "isHelpDisplay": true,
+            "success": 21,
+            "failure": 20
+        },
+        {
+            "dialogueNo": 21,
+            "dialogue": [
+                "すごい！",
+                "これはどうでしょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["現す"],
+            "helpWord": ["あらわす"],
+            "isHelpDisplay": true,
+            "success": 23,
+            "failure": 22
+        },
+        {
+            "dialogueNo": 22,
+            "dialogue": [
+                "残念！", 
+                "ゆっくりで大丈夫ですよ！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["現す"],
+            "helpWord": ["あらわす"],
+            "isHelpDisplay": true,
+            "success": 23,
+            "failure": 22
+        },
+        {
+            "dialogueNo": 23,
+            "dialogue": [
+                "すごい！",
+                "これはどうでしょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["踊り"],
+            "helpWord": ["おどり"],
+            "isHelpDisplay": true,
+            "success": 25,
+            "failure": 24
+        },
+        {
+            "dialogueNo": 24,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["踊り"],
+            "helpWord": ["おどり"],
+            "isHelpDisplay": true,
+            "success": 25,
+            "failure": 24
+        },
+        {
+            "dialogueNo": 25,
+            "dialogue": [
+                "すごい！",
+                "これはどうでしょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["お礼"],
+            "helpWord": ["おれい"],
+            "isHelpDisplay": true,
+            "success": 27,
+            "failure": 26
+        },
+        {
+            "dialogueNo": 26,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["お礼"],
+            "helpWord": ["おれい"],
+            "isHelpDisplay": true,
+            "success": 27,
+            "failure": 26
+        },
+        {
+            "dialogueNo": 27,
+            "dialogue": [
+                "すばらしい！",
+                "これもお願いします！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["続ける"],
+            "helpWord": ["つづける"],
+            "isHelpDisplay": true,
+            "success": 29,
+            "failure": 28
+        },
+        {
+            "dialogueNo": 28,
+            "dialogue": [
+                "残念！", 
+                "よくみてからで大丈夫！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["続ける"],
+            "helpWord": ["つづける"],
+            "isHelpDisplay": true,
+            "success": 29,
+            "failure": 28
+        },
+        {
+            "dialogueNo": 29,
+            "dialogue": [
+                "さすがです！",
+                "これもよろしく！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["日照り"],
+            "helpWord": ["ひでり"],
+            "isHelpDisplay": true,
+            "success": 31,
+            "failure": 30
+        },
+        {
+            "dialogueNo": 30,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["日照り"],
+            "helpWord": ["ひでり"],
+            "isHelpDisplay": true,
+            "success": 31,
+            "failure": 30
+        },
+        {
+            "dialogueNo": 31,
+            "dialogue": [
+                "すばらしい！",
+                "これもお願いします！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["干ばつ"],
+            "helpWord": ["かんばつ"],
+            "isHelpDisplay": true,
+            "success": 33,
+            "failure": 32
+        },
+        {
+            "dialogueNo": 32,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["干ばつ"],
+            "helpWord": ["かんばつ"],
+            "isHelpDisplay": true,
+            "success": 33,
+            "failure": 32
+        },
+        {
+            "dialogueNo": 33,
+            "dialogue": [
+                "すごい！",
+                "これはどうでしょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["増える"],
+            "helpWord": ["ふえる"],
+            "isHelpDisplay": true,
+            "success": 35,
+            "failure": 34
+        },
+        {
+            "dialogueNo": 34,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["増える"],
+            "helpWord": ["ふえる"],
+            "isHelpDisplay": true,
+            "success": 35,
+            "failure": 34
+        },
+        {
+            "dialogueNo": 35,
+            "dialogue": [
+                "スバラシイ！",
+                "コレハドウデショウ！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["減らす"],
+            "helpWord": ["へらす"],
+            "isHelpDisplay": true,
+            "success": 37,
+            "failure": 36
+        },
+        {
+            "dialogueNo": 36,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["減らす"],
+            "helpWord": ["へらす"],
+            "isHelpDisplay": true,
+            "success": 37,
+            "failure": 36
+        },
+        {
+            "dialogueNo": 37,
+            "dialogue": [
+                "さすがです！",
+                "これもよろしく！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["講じる"],
+            "helpWord": ["こうじる"],
+            "isHelpDisplay": true,
+            "success": 39,
+            "failure": 38
+        },
+        {
+            "dialogueNo": 38,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["講じる"],
+            "helpWord": ["こうじる"],
+            "isHelpDisplay": true,
+            "success": 39,
+            "failure": 38
+        },
+        {
+            "dialogueNo": 39,
+            "dialogue": [
+                "スバラシイ！",
+                "コレハドウデショウ！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["見込み"],
+            "helpWord": ["みこみ"],
+            "isHelpDisplay": true,
+            "success": 41,
+            "failure": 40
+        },
+        {
+            "dialogueNo": 40,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["見込み"],
+            "helpWord": ["みこみ"],
+            "isHelpDisplay": true,
+            "success": 41,
+            "failure": 40
+        },
+        {
+            "dialogueNo": 41,
+            "dialogue": [
+                "すごい！",
+                "これはどうでしょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["対して"],
+            "helpWord": ["たいして"],
+            "isHelpDisplay": true,
+            "success": 43,
+            "failure": 42
+        },
+        {
+            "dialogueNo": 42,
+            "dialogue": [
+                "残念！", 
+                "ゆっくりで大丈夫ですよ！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["対して"],
+            "helpWord": ["たいして"],
+            "isHelpDisplay": true,
+            "success": 43,
+            "failure": 42
+        },
+        {
+            "dialogueNo": 43,
+            "dialogue": [
+                "すごい！",
+                "これはどうでしょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["泊まる"],
+            "helpWord": ["とまる"],
+            "isHelpDisplay": true,
+            "success": 45,
+            "failure": 44
+        },
+        {
+            "dialogueNo": 44,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["泊まる"],
+            "helpWord": ["とまる"],
+            "isHelpDisplay": true,
+            "success": 45,
+            "failure": 44
+        },
+        {
+            "dialogueNo": 45,
+            "dialogue": [
+                "すごい！",
+                "これはどうでしょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["答える"],
+            "helpWord": ["こたえる"],
+            "isHelpDisplay": true,
+            "success": 47,
+            "failure": 46
+        },
+        {
+            "dialogueNo": 46,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["答える"],
+            "helpWord": ["こたえる"],
+            "isHelpDisplay": true,
+            "success": 47,
+            "failure": 46
+        },
+        {
+            "dialogueNo": 47,
+            "dialogue": [
+                "すばらしい！",
+                "これもお願いします！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["お土産"],
+            "helpWord": ["おみやげ"],
+            "isHelpDisplay": true,
+            "success": 49,
+            "failure": 48
+        },
+        {
+            "dialogueNo": 48,
+            "dialogue": [
+                "残念！", 
+                "よくみてからで大丈夫！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["お土産"],
+            "helpWord": ["おみやげ"],
+            "isHelpDisplay": true,
+            "success": 49,
+            "failure": 48
+        },
+        {
+            "dialogueNo": 49,
+            "dialogue": [
+                "さすがです！",
+                "これもよろしく！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["受ける"],
+            "helpWord": ["うける"],
+            "isHelpDisplay": true,
+            "success": 51,
+            "failure": 50
+        },
+        {
+            "dialogueNo": 50,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["受ける"],
+            "helpWord": ["うける"],
+            "isHelpDisplay": true,
+            "success": 51,
+            "failure": 50
+        },
+        {
+            "dialogueNo": 51,
+            "dialogue": [
+                "すばらしい！",
+                "これもお願いします！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["親しい"],
+            "helpWord": ["したしい"],
+            "isHelpDisplay": true,
+            "success": 53,
+            "failure": 52
+        },
+        {
+            "dialogueNo": 52,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["親しい"],
+            "helpWord": ["したしい"],
+            "isHelpDisplay": true,
+            "success": 53,
+            "failure": 52
+        },
+        {
+            "dialogueNo": 53,
+            "dialogue": [
+                "さすがです！",
+                "これもよろしく！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["聞き手"],
+            "helpWord": ["ききて"],
+            "isHelpDisplay": true,
+            "success": 55,
+            "failure": 54
+        },
+        {
+            "dialogueNo": 54,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["聞き手"],
+            "helpWord": ["ききて"],
+            "isHelpDisplay": true,
+            "success": 55,
+            "failure": 54
+        },
+        {
+            "dialogueNo": 55,
+            "dialogue": [
+                "すばらしい！",
+                "これもお願いします！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["見送り"],
+            "helpWord": ["みおくり"],
+            "isHelpDisplay": true,
+            "success": 57,
+            "failure": 56
+        },
+        {
+            "dialogueNo": 56,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["見送り"],
+            "helpWord": ["みおくり"],
+            "isHelpDisplay": true,
+            "success": 57,
+            "failure": 56
+        },
+        {
+            "dialogueNo": 57,
+            "dialogue": [
+                "すごい！",
+                "これはどうでしょう！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["お客様"],
+            "helpWord": ["おきゃくさま"],
+            "isHelpDisplay": true,
+            "success": 59,
+            "failure": 58
+        },
+        {
+            "dialogueNo": 58,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["お客様"],
+            "helpWord": ["おきゃくさま"],
+            "isHelpDisplay": true,
+            "success": 59,
+            "failure": 58
+        },
+        {
+            "dialogueNo": 59,
+            "dialogue": [
+                "スバラシイ！",
+                "コレハドウデショウ！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["激しい雨"],
+            "helpWord": ["はげしいあめ"],
+            "isHelpDisplay": true,
+            "success": 61,
+            "failure": 60
+        },
+        {
+            "dialogueNo": 60,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["激しい雨"],
+            "helpWord": ["はげしいあめ"],
+            "isHelpDisplay": true,
+            "success": 61,
+            "failure": 60
+        },
+        {
+            "dialogueNo": 61,
+            "dialogue": [
+                "さすがです！",
+                "これもよろしく！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["伝え合う"],
+            "helpWord": ["つたえあう"],
+            "isHelpDisplay": true,
+            "success": 63,
+            "failure": 62
+        },
+        {
+            "dialogueNo": 62,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["伝え合う"],
+            "helpWord": ["つたえあう"],
+            "isHelpDisplay": true,
+            "success": 63,
+            "failure": 62
+        },
+        {
+            "dialogueNo": 63,
+            "dialogue": [
+                "さすがです！",
+                "最後です！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["呼びかける"],
+            "helpWord": ["よびかける"],
+            "isHelpDisplay": true,
+            "success": 65,
+            "failure": 64
+        },
+        {
+            "dialogueNo": 64,
+            "dialogue": [
+                "残念！", 
+                "もう一度！", 
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": true,
+            "answerList": [
+                {
+                    "answer": [""],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": ["呼びかける"],
+            "helpWord": ["よびかける"],
+            "isHelpDisplay": true,
+            "success": 65,
+            "failure": 64
+        },
+        {
+            "dialogueNo": 65,
+            "dialogue": [
+                "すばらしいです！",
+                "どんどん行きましょう！",
+                ""
+            ],
+            "name": "Chat-TH",
+            "isInputRequire": false,
+            "answerList": [
+                {
+                    "answer": ["うん、分かった。"],
+                    "nextDialogueNo": -1
+                }
+            ],
+            "displyaWord": [""],
+            "helpWord": [""],
+            "isHelpDisplay": true,
+            "success": -1,
+            "failure": -1
+        }
+    ]
+}
