@@ -1,0 +1,5246 @@
+{
+    "stageData": [
+        {
+            "stage": 1,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue01",
+            "clearMessage": ["おめでとうございます！", "ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 2,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue02",
+            "clearMessage": ["おめでとうございます！", "ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 3,
+            "stageType": 1,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "",
+            "clearMessage": ["つぎはじっせんれんしゅうだ！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 4,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0],
+            "dialogue": "",
+            "clearMessage": [
+                "すばらしい！",
+                "そのちょうしで！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 5,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue03",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 6,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [1],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 7,
+            "stageType": 2,
+            "clearScore": 15,
+            "energy": 5,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 8,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue04",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 9,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [2],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 10,
+            "stageType": 2,
+            "clearScore": 15,
+            "energy": 5,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 11,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue05",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 12,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [3],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 13,
+            "stageType": 2,
+            "clearScore": 15,
+            "energy": 5,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 14,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue06",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 15,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [4],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 16,
+            "stageType": 2,
+            "clearScore": 15,
+            "energy": 5,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 17,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue07",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 18,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [5],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 19,
+            "stageType": 2,
+            "clearScore": 15,
+            "energy": 5,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 20,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue08",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 21,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [6],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 22,
+            "stageType": 2,
+            "clearScore": 20,
+            "energy": 5,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 23,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue09",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 24,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [7],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 25,
+            "stageType": 2,
+            "clearScore": 20,
+            "energy": 5,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 26,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue10",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 27,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [8],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 28,
+            "stageType": 2,
+            "clearScore": 20,
+            "energy": 5,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 29,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue11",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 30,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [9],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 31,
+            "stageType": 2,
+            "clearScore": 20,
+            "energy": 5,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 32,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue12",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 33,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [10],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 34,
+            "stageType": 2,
+            "clearScore": 20,
+            "energy": 5,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 35,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue13",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 36,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [11],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 37,
+            "stageType": 2,
+            "clearScore": 25,
+            "energy": 7,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 38,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue14",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 39,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [12],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 40,
+            "stageType": 2,
+            "clearScore": 25,
+            "energy": 7,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 41,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue15",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 42,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [13],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 43,
+            "stageType": 2,
+            "clearScore": 25,
+            "energy": 7,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 44,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue16",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 45,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [14],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 46,
+            "stageType": 2,
+            "clearScore": 25,
+            "energy": 7,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 47,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue17",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 48,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [15],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 49,
+            "stageType": 2,
+            "clearScore": 25,
+            "energy": 7,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 50,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue18",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 51,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [16],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 52,
+            "stageType": 2,
+            "clearScore": 25,
+            "energy": 7,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 53,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue19",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 54,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [17],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 55,
+            "stageType": 2,
+            "clearScore": 25,
+            "energy": 7,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 56,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue20",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 57,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [18],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 58,
+            "stageType": 2,
+            "clearScore": 25,
+            "energy": 7,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 59,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue21",
+            "clearMessage": ["ステージクリア！", "どんどんクリアしていこう！"],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 60,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [19],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 61,
+            "stageType": 2,
+            "clearScore": 25,
+            "energy": 7,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "どんどんいきましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 62,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue22",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 63,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [20],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 64,
+            "stageType": 2,
+            "clearScore": 25,
+            "energy": 7,
+            "enemySpeed": 40,
+            "spawnSpeed": 4000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "つぎからスピードアップ！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 65,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "つぎもスピードアップ！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 66,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 2000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "カタカナにすすめましょう！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 67,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue23",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 68,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 69,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue24",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 70,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [22],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 71,
+            "stageType": 2,
+            "clearScore": 15,
+            "energy": 5,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 72,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue25",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 73,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [23],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 74,
+            "stageType": 2,
+            "clearScore": 15,
+            "energy": 5,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 75,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue26",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 76,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [24],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 77,
+            "stageType": 2,
+            "clearScore": 15,
+            "energy": 5,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 78,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue27",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 79,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [25],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 80,
+            "stageType": 2,
+            "clearScore": 15,
+            "energy": 5,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 81,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue28",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 82,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [26],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 83,
+            "stageType": 2,
+            "clearScore": 15,
+            "energy": 5,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 84,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue29",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 85,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [27],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 86,
+            "stageType": 2,
+            "clearScore": 20,
+            "energy": 7,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 87,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue30",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 88,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [28],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 89,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 90,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue31",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 91,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [29],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 92,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 93,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue32",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 94,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [30],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 95,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 96,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue33",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 97,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [31],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 98,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 99,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue34",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 100,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [32],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 101,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 102,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue35",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 103,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [33],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 104,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 105,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue36",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 106,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [34],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 107,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 108,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue37",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 109,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [35],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 110,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 111,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue38",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 112,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [36],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 113,
+            "stageType": 2,
+            "clearScore": 35,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 114,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue39",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 115,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [37],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 116,
+            "stageType": 2,
+            "clearScore": 35,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 117,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue40",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 118,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [38],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 119,
+            "stageType": 2,
+            "clearScore": 35,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 120,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue41",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 121,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [39],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 122,
+            "stageType": 2,
+            "clearScore": 35,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 123,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue42",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 124,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [40],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 125,
+            "stageType": 2,
+            "clearScore": 35,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 126,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue43",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 127,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [41],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 128,
+            "stageType": 2,
+            "clearScore": 35,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                ""
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 129,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue44",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 130,
+            "stageType": 2,
+            "clearScore": 10,
+            "energy": 3,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [42],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "つぎもよろしく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 131,
+            "stageType": 2,
+            "clearScore": 40,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "つぎはもうちょっとはやく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 132,
+            "stageType": 2,
+            "clearScore": 45,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 2500,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "つぎはもうちょっとはやく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 133,
+            "stageType": 2,
+            "clearScore": 50,
+            "energy": 10,
+            "enemySpeed": 25,
+            "spawnSpeed": 2500,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "つぎはもうちょっとはやく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 134,
+            "stageType": 2,
+            "clearScore": 55,
+            "energy": 10,
+            "enemySpeed": 20,
+            "spawnSpeed": 2500,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すばらしいです！",
+                "つぎはもうちょっとはやく！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 135,
+            "stageType": 2,
+            "clearScore": 60,
+            "energy": 10,
+            "enemySpeed": 20,
+            "spawnSpeed": 2000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "すごい！すごい！すごい！",
+                "そうごうれんしゅうおわり！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 136,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue45",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 137,
+            "stageType": 2,
+            "clearScore": 15,
+            "energy": 5,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 138,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue46",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 139,
+            "stageType": 2,
+            "clearScore": 20,
+            "energy": 7,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [45],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 140,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 141,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue47",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 142,
+            "stageType": 2,
+            "clearScore": 25,
+            "energy": 7,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [46],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 143,
+            "stageType": 2,
+            "clearScore": 35,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 144,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue48",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 145,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [47],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 146,
+            "stageType": 2,
+            "clearScore": 40,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 147,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue49",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 148,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [48],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 149,
+            "stageType": 2,
+            "clearScore": 45,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 150,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue50",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 151,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [49],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 152,
+            "stageType": 2,
+            "clearScore": 50,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 153,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue51",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 154,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [50],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 155,
+            "stageType": 2,
+            "clearScore": 55,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49, 50],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 156,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue52",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 157,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [51],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 158,
+            "stageType": 2,
+            "clearScore": 60,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49, 50, 51],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 159,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue53",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 160,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [52],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 161,
+            "stageType": 2,
+            "clearScore": 65,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49, 50, 51, 52],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 162,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue54",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 163,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [53],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 164,
+            "stageType": 2,
+            "clearScore": 70,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49, 50, 51, 52, 53],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 165,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue55",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 166,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [54],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 167,
+            "stageType": 2,
+            "clearScore": 70,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 168,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue56",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 169,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [55],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 170,
+            "stageType": 2,
+            "clearScore": 70,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 171,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue57",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 172,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [56],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 173,
+            "stageType": 2,
+            "clearScore": 70,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 174,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue58",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 175,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3500,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [57],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 176,
+            "stageType": 2,
+            "clearScore": 70,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 177,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 178,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 25,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 179,
+            "stageType": 2,
+            "clearScore": 120,
+            "energy": 10,
+            "enemySpeed": 25,
+            "spawnSpeed": 2500,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 180,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue59",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 181,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [58],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 182,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue60",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 183,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [59],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 184,
+            "stageType": 2,
+            "clearScore": 50,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [58, 59],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 185,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue61",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 186,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [60],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 187,
+            "stageType": 2,
+            "clearScore": 55,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [58, 59, 60],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 188,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue62",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 189,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [61],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 190,
+            "stageType": 2,
+            "clearScore": 60,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [58, 59, 60, 61],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 191,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue63",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 192,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [62],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 193,
+            "stageType": 2,
+            "clearScore": 65,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [58, 59, 60, 61, 62],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 194,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue64",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 195,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [63],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 196,
+            "stageType": 2,
+            "clearScore": 70,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [58, 59, 60, 61, 62, 63],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 197,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue65",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 198,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [64],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 199,
+            "stageType": 2,
+            "clearScore": 75,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [58, 59, 60, 61, 62, 63, 64],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 200,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue66",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 201,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [65],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 202,
+            "stageType": 2,
+            "clearScore": 80,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [58, 59, 60, 61, 62, 63, 64, 65],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 203,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue67",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 204,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [66],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 205,
+            "stageType": 2,
+            "clearScore": 85,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [58, 59, 60, 61, 62, 63, 64, 65, 66],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 206,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue68",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 207,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [67],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 208,
+            "stageType": 2,
+            "clearScore": 90,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [58, 59, 60, 61, 62, 63, 64, 65, 66, 67],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 209,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue69",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 210,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [68],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 211,
+            "stageType": 2,
+            "clearScore": 95,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 212,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue70",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 213,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [69],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 214,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 215,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue71",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 216,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [70],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 217,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 218,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue72",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 219,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [71],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 220,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 221,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue73",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 222,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [72],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 223,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 224,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue74",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 225,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [73],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 226,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 227,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue75",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 228,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [74],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 229,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 230,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue76",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 231,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [75],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 232,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 233,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue77",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 234,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [76],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 235,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 236,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue78",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 237,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [77],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 238,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 239,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue79",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 240,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [78],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 241,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77,
+                78
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 242,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue80",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 243,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [79],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 244,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77,
+                78, 79
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 245,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue81",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 246,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [80],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 247,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77,
+                78, 79, 80
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 248,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue82",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 249,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [81],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 250,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77,
+                78, 79, 80, 81
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 251,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue83",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 252,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [82],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 253,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77,
+                78, 79, 80, 81, 82
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 254,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue84",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 255,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [83],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 256,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77,
+                78, 79, 80, 81, 82, 83
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 257,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue85",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 258,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [84],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 259,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77,
+                78, 79, 80, 81, 82, 83, 84
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 260,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue86",
+            "clearMessage": [
+                "ステージクリア！", 
+                "どんどんクリアしていこう！"
+            ],
+            "failureMessage": [""]
+        },
+        {
+            "stage": 261,
+            "stageType": 2,
+            "clearScore": 30,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [85],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 262,
+            "stageType": 2,
+            "clearScore": 100,
+            "energy": 10,
+            "enemySpeed": 40,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77,
+                78, 79, 80, 81, 82, 83, 84, 85
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 263,
+            "stageType": 2,
+            "clearScore": 120,
+            "energy": 10,
+            "enemySpeed": 35,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77,
+                78, 79, 80, 81, 82, 83, 84, 85
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 264,
+            "stageType": 2,
+            "clearScore": 150,
+            "energy": 10,
+            "enemySpeed": 30,
+            "spawnSpeed": 3000,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77,
+                78, 79, 80, 81, 82, 83, 84, 85
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 265,
+            "stageType": 2,
+            "clearScore": 150,
+            "energy": 10,
+            "enemySpeed": 25,
+            "spawnSpeed": 2800,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [
+                58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+                68, 69, 70, 71, 72, 73, 74, 75, 76, 77,
+                78, 79, 80, 81, 82, 83, 84, 85
+            ],
+            "dialogue": "",
+            "clearMessage": [
+                "ステージクリア！",
+                "さいこうです！",
+                "すごい！すごい！"
+            ],
+            "failureMessage": [
+                "ざんねん！",
+                "もうちょっとがんばろう!"
+            ]
+        },
+        {
+            "stage": 266,
+            "stageType": 0,
+            "clearScore": 0,
+            "energy": 0,
+            "enemySpeed": 0,
+            "spawnSpeed": 0,
+            "rotation": false,
+            "hidden": false,
+            "enemyData" : [-1],
+            "dialogue": "dialogue87",
+            "clearMessage": [
+                "ありがとうございました！", 
+                "さようなら！"
+            ],
+            "failureMessage": [""]
+        }
+    ]
+}
